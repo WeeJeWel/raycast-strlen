@@ -1,0 +1,14 @@
+{
+  "name": "strlen",
+  "version": "1.0.0",
+  "description": "A Raycast plugin to show the length of the clipboard string",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  }
+}
